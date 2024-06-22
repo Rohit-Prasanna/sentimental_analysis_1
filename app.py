@@ -1,5 +1,5 @@
 import streamlit as st
-from sentiment_analysis import load_m_n_v, manual_testing,wp,output_lable
+from SA_utils import load_m_n_v, manual_testing,wp,output_lable
 import time
 
 # Load the model and vectorizer
